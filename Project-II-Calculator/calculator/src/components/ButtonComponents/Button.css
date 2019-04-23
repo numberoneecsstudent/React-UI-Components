@@ -6,12 +6,7 @@
   .number-button {
     width: 100px;
     border: 1px solid lightgray;
-  }
-
-  .zero-clear-button {
-    width: 300px;
-    border: 1px solid lightgray;
-    padding: 0 100px;
+    font-size: 50px;
   }
 
   .red-button {
@@ -22,12 +17,7 @@
     font-size: 50px;
     font-weight: 200;
   }
-  .num-button {
-    text-align: center;
-    line-height: 100px;
-    font-size: 50px;
-    font-weight: 200;
-  }
+  
 
   .h
   {
