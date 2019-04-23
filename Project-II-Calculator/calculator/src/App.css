@@ -1,0 +1,17 @@
+.calc-wrap {
+    min-height: 600px;
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+    font-family: sans-serif;
+  } 
+
+  .top {
+    width: 100%;
+}
+.bottom {
+    width: 400px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+} 
